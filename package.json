@@ -49,7 +49,7 @@
     "@babel/plugin-transform-destructuring": "^7.10.4",
     "@babel/plugin-transform-regenerator": "^7.10.4",
     "@babel/preset-env": "^7.16.0",
-    "@babel/preset-react": "^7.16.0",
+    "@babel/preset-react": "^7.24.1",
     "@bull-board/api": "^4.2.2",
     "@bull-board/koa": "^4.2.2",
     "@dnd-kit/core": "^4.0.3",
